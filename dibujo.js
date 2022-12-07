@@ -31,7 +31,7 @@ function dibujo_por_click()
     /*while(l < lineas)
     {
         yf = 10 * l;
-        xi = 10 * (l + 1);
+        xi = 10 * l;
         dibujar_linea(line_color, xi, 0, 300, yf);
         dibujar_linea(line_color, xi, 300, 0, yf);
         console.log("Lineas " + l);
